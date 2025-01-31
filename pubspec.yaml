@@ -59,7 +59,6 @@ flutter:
     - family: Montserrat
       fonts:
       - asset: fonts/Montserrat/static/Montserrat-Black.ttf
-  fonts:
     - family: Playfair Display
       fonts:
       - asset: fonts/Playfair Display/static/PlayfairDisplay-Black.ttf
